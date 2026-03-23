@@ -55,17 +55,14 @@ Hey guys! I'm LayeVeitch, a full-stack developer major in the Software Engineeri
         <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
     </div>
     <div>
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_44838907" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LayeVeitch&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+		<img src="https://stats.justsong.cn/api/csdn?id=weixin_44838907" />
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=LayeVeitch&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 	</div>
-	<div>
-    
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LayeVeitch&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-    
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeVeitch&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+	<div>    
+		<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LayeVeitch&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+		<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeVeitch&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 	</div>
 	<div style="margin-top:1rem;">
-    
-    <img src="https://activity-graph.herokuapp.com/graph?username=LayeVeitch&theme=xcode" />
+		<img src="https://activity-graph.herokuapp.com/graph?username=LayeVeitch&theme=xcode" />
 	</div>
 </div>
