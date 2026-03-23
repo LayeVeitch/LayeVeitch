@@ -59,10 +59,10 @@ Hey guys! I'm LayeVeitch, a full-stack developer major in the Software Engineeri
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=LayeVeitch&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 	</div>
 	<div>    
-		<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LayeVeitch&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+		<img src="https://github-readme-stats.vercel.app/api?username=LayeVeitch&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite" height="137px">
 		<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeVeitch&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 	</div>
 	<div style="margin-top:1rem;">
-		<img src="https://activity-graph.herokuapp.com/graph?username=LayeVeitch&theme=xcode" />
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=LayeVeitch&amp;theme=xcode">
 	</div>
 </div>
